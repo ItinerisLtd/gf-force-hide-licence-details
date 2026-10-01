@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:     GF Force Enable HTML5
+ * Plugin Name:     GF Force Hide Licence Details
  * Plugin URI:      https://github.com/ItinerisLtd/gf-force-hide-licence-details/
  * Description:     Force Gravity Forms hide license details.
  * Version:         0.1.0
